@@ -16,7 +16,7 @@ A beginner-friendly tutorial on point cloud processing using Open3D. This repo w
 ## Setup
 
 ```bash
-git clone git@agctanuki.agc.jp:rds/pointcloud.git
+git clone git@github.com:RishitSingh10pointcloud.git
 cd pointcloud
 
 # Create and activate virtual environment using uv
