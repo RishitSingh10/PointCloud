@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Point Cloud Processing
 
 A beginner-friendly tutorial on point cloud processing using Open3D. This repo walks through the full pipeline — from data preparation to segmentation and classification — with clear explanations of the math and computer vision concepts behind each step.
@@ -26,3 +27,6 @@ uv venv
 # Install dependencies
 uv pip install -r pyproject.toml
 ```
+=======
+# PointCloud
+>>>>>>> 9ce7ea07e2c63d952ff7b95d6bb85a688f6e8338
