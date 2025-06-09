@@ -6,11 +6,18 @@ A beginner-friendly tutorial on point cloud processing using Open3D. This repo w
 
 ## Follow the Notebook Order
 
-1. [intro_point_cloud_processing.ipynb](./intro_point_cloud_processing.ipynb)  
+1. [intro_point_cloud_processing.ipynb](./intro_point_cloud_processing.ipynb)<br>
   Intro to point clouds, Open3D basics.
 
-2. [point_cloud_from_depth.ipynb](./point_cloud_from_depth.ipynb)  
-  Estimate 3D point clouds from 2D images from scratch using numpy.
+2. [point_cloud_from_depth.ipynb](./point_cloud_from_depth.ipynb)<br>
+  Estimate 3D point clouds from 2D images from scratch using numpy. Generate coloured point clouds from RGB image.
+
+3. [ground_detection.ipynb](./ground_detection.ipynb)<br>
+  Intro to 3D coordinate system and ground detection using thresholding. Also introducing organized point clouds.
+
+4. [point_cloud_filtering.ipynb](./point_cloud_filtering.ipynb)<br>
+  Filter point clouds for down-sampling and outlier removal.
+
 ---
 
 ## Setup
